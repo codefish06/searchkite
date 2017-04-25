@@ -19,3 +19,32 @@ body {
   align-self: center;
   max-width: 300px;
 }
+
+.sk-tag-cloud{
+  font-size: 25px;
+}
+
+.search-cloud {
+    padding: 16px;
+    margin-bottom: 11px;
+    font-size: 18px;
+}
+
+.hit-stats{
+  padding-left: 18px;
+  padding-top: 15px;
+}
+
+.sk-search-box__text{
+  color: #262626;
+  font-size: 33px;
+  padding-left: 10px;
+}
+
+.sk-search-box{
+  margin-top: 7px;
+}
+
+.sk-search-box__icon {
+    margin: 14px -1px 0px 16px;
+}

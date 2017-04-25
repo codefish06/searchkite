@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "elasticsearch": "^13.0.0-rc2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "searchkit": "^0.10.1"
